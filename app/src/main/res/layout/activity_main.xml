@@ -14,7 +14,7 @@
         android:layout_marginTop="16dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Enter text here"
+        android:text="Enter Please"
         app:layout_constraintEnd_toStartOf="@+id/btn1"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
